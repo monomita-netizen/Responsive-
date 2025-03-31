@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "responsive website",
+			"path": "../responsive website"
+		},
+		{
+			"name": "Responsive-",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "responsive website"
+	}
+}
