@@ -12,6 +12,11 @@ h1, h2 {
     line-height: normal;
 }
 
+header, footer, main {
+    max-width: 1024px;
+    margin: auto;
+}
+
 article, p {
     text-align: justify;
     hyphens: auto;
